@@ -1,0 +1,82 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "station_id": "0000001041",
+                "station_name": "Apple Green",
+                "fuel_id": "1",
+                "price": "1.44",
+                "country_id": 0,
+                "datetime": "2021-02-18T06:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.575758,
+                    54.838318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_id": "0000001041",
+                "station_name": "Apple Green",
+                "fuel_id": "2",
+                "price": "1.67",
+                "country_id": 0,
+                "datetime": "2021-02-18T06:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.575758,
+                    54.838318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_id": "0000001041",
+                "station_name": "Apple Green",
+                "fuel_id": "3",
+                "price": "2.03",
+                "country_id": 0,
+                "datetime": "2021-02-18T06:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.575758,
+                    54.838318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_id": "0000001041",
+                "station_name": "Apple Green",
+                "fuel_id": "4",
+                "country_id": 0,
+                "datetime": "2021-02-18T06:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.575758,
+                    54.838318
+                ]
+            }
+        }
+    ]
+}
