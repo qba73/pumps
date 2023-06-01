@@ -1,3 +1,3 @@
-module github.com/qba73/pumping
+module github.com/qba73/pumps
 
 go 1.20
