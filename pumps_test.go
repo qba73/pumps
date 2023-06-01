@@ -1,1 +1,1 @@
-package pumping_test
+package pumps_test
