@@ -1,3 +1,3 @@
-# pumping
+# pumps
 
-**pumping** is a web application that tracks fuel prices in petrol stations.
+**pumps** is a web application that tracks fuel, gas and electricity prices.
