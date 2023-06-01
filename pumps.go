@@ -1,4 +1,4 @@
-package pumping
+package pumps
 
 import "time"
 
