@@ -1,3 +1,3 @@
 module github.com/qba73/pumps
 
-go 1.20
+go 1.21
